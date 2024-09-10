@@ -9,7 +9,7 @@ public class PersonAccountApplication {
 		
 		Bank bank = new BankImplementation();
 		Person per;
-		per = new Person("Omkar", "Nashik", bank, 25000);
+		per = new Person("Trupti", "Nashik", bank, 20000);
 		
 		System.out.println(per);
 		System.out.println("----------------------------------");
