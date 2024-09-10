@@ -6,8 +6,8 @@ public class TwoWheeler extends Vehicle {
 
 	public TwoWheeler() {
 		System.out.println("Default Constructor (Two Wheeler)");
-		vehicleCompany = "Bajaj";
-		vehicleModelName = "Pulsar 150";
+		vehicleCompany = "royal enfield";
+		vehicleModelName = "Pulsar";
 	}
 
 	public TwoWheeler(String vehicleCompany, String vehicleName) {
