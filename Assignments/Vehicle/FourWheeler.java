@@ -6,8 +6,8 @@ public class FourWheeler extends Vehicle{
 	private int vehicleCapacity;
 	public FourWheeler() {
 		System.out.println("Default Constructor (Four Wheeler)");
-		vehicleCompany = "Mahindra";
-		vehicleModelName = "THAR ROXX";
+		vehicleCompany = "WRV";
+		vehicleModelName = "THAR";
 		vehicleCapacity = 6;
 	}
 
