@@ -55,6 +55,7 @@ class Author {
 public class Example {
 
     public static void main(String[] args) {
+        // TODO Auto-generated method stub
         Author author1 = new Author("J.K. Rowling");
         Author author2 = new Author("George Orwell");
 
